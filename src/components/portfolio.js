@@ -3,26 +3,26 @@ import ScrollableAnchor from "react-scrollable-anchor";
 const portfolioItems = [
   {
     imgSrc: "./img/portfolio-1.jpg",
-    heading: "Stationary",
-    description: "A yellow pencil with envelopes on a clean, blue backdrop!"
+    heading: "Good Morning, Sunshine!",
+    description: "Your morning snippet of information"
   },
   {
     imgSrc: "./img/portfolio-2.jpg",
-    heading: "Ice Cream",
+    heading: "Hella_Social",
     description:
-      "A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!"
+      "A place to connect with others with similar interests"
   },
   {
     imgSrc: "./img/portfolio-3.jpg",
-    heading: "Strawberries",
+    heading: "Byte",
     description:
-      "Strawberries are such a tasty snack, especially with a little sugar on top!"
+      "Like Tinder, but for food... find restaurants that your friends and you all agree on"
   },
   {
     imgSrc: "./img/portfolio-4.jpg",
-    heading: "Workspace",
+    heading: "Local Host",
     description:
-      "A yellow workspace with some scissors, pencils, and other objects."
+      "Work in Progress- A place for people to find local artists for events, with specific search parameters"
   }
 ];
 const PortfolioSection = () => (
