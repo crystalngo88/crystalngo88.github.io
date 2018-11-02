@@ -3,7 +3,7 @@ import ScrollableAnchor from "react-scrollable-anchor";
 const ServicesOffered = [
   {
     title: "Tech Savvy Gal",
-    description: "Socially aware and sharp",
+    description: "Organized and accessible",
     icon: "icon-screen-smartphone"
   },
   {
@@ -22,7 +22,7 @@ const ServicesOffered = [
   },
   {
     title: "Community Builder",
-    description: "I mustache you a question...",
+    description: "Let's meet for a real introduction!",
     icon: "icon-mustache"
   }
 ];

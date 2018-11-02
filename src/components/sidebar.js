@@ -48,7 +48,7 @@ class Sidebar extends React.Component {
         <ul className="sidebar-nav">
           <li className="sidebar-brand">
             <a className="js-scroll-trigger" href="#top">
-              Start Bootstrap
+              Menu
             </a>
           </li>
           {siteNav.map(link => (
